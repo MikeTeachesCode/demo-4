@@ -48,13 +48,17 @@ footer a{
     font-size:20px;
     margin:10px;
 }
+
 /* SIDEBAR 1 SEAGREEN */
+
 #sidebar{
     position:absolute;
     height:80%;
     top:30px;
     width:400px;
+
     background-color:seaGreen;
+
     z-index:200;
     left:0;
     margin-left:-400px;
